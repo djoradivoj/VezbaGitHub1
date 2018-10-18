@@ -2,6 +2,6 @@
 <div>
 	<p>Neki tekst iz noveGrane</p>
 	<p>provera iz nove grane</p>
-	<p>Neka promena iz mastera</p>
+	<p>Promena iz 1 ali posle mastera</p>
 
 </div>
